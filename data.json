@@ -1,0 +1,40 @@
+
+    {
+        "version": 1,
+   "personas": [
+       {
+           "nombre": "Maria",
+           "edad": 20,
+           "pais": "colombia"
+       },
+       {
+           "nombre": "Maria",
+           "edad": 20,
+           "pais": "colombia"
+       },
+       {
+           "nombre": "Maria",
+           "edad": 20,
+           "pais": "colombia"
+       }
+   ],
+   
+   "animales": [
+       {
+           "nombre": "firulais",
+           "edad": 5,
+           "raza": "pastor aleman"
+       },
+       {
+           "nombre": "firulais",
+           "edad": 5,
+           "raza": "pastor aleman"
+       },
+       {
+           "nombre": "firulais",
+           "edad": 5,
+           "raza": "pastor aleman"
+       }
+   ]
+     
+}
